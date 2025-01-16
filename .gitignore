@@ -1,4 +1,4 @@
 node_modules/*
 .env
-src/FirebaseService.json
+src/firebaseService.json
 for-later.js
